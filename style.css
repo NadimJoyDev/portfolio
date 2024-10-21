@@ -1,0 +1,69 @@
+body{
+    font-family: chrome-extension://bhiichidigehdgphoambhjbekalahgha/data/window/index.html?mode=window&id=0.23030538452849814#;
+}
+body{
+margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    align-items: justify;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+    height:100%;
+}
+.first-section {
+    display: flex;
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+}
+.orange-color{
+    color:#FFA500;
+}
+.button-hire-me{
+    background-image: linear-gradient(#E44226,#E2644E);
+    padding: 5px 10px;
+    border-radius: 8px;
+    outline: none;
+    color: #ffff;
+    font-size: small;
+}
+/*nd section start*/
+.secound-section{
+    display: flex;
+    background: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.halh-width-two{
+    width: 50%;
+}
+.halh-width-two img{
+    width: 80%;
+}
+.btn-two{
+    background-image: linear-gradient(#F18326,#F13E13);
+    padding: 10px 60px;
+    border: 0;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+/*3rd section start*/
+.third-section{
+    display:;
+    background-image:url(background.png);
+    background-repeat: no-repeat;
+}
+.father-section{
+    display: flex;
+}
+/*3rd section end*/
